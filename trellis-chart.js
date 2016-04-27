@@ -1,6 +1,6 @@
 require.config({
   paths: {
-    d3: "http://d3js.org/d3.v3.min"     // to solve d3.js dependency with dimple
+    d3: "../extensions/trellis-chart/lib/d3.v3.min"     // to solve d3.js dependency with dimple
   }
 });
 
